@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">parking_manager</string>
-    <string name="user_info">조태규 12 수 1234</string>
+    <string name="ex_user_info">조태규 12 수 1234</string>
     <string name="parking_time">주차 시간</string>
     <string name="parking_location">주차 위치</string>
     <string name="ex_parking_time">01:23</string>
     <string name="ex_parking_location">A-01</string>
+    <string name="ex_location">단국마트 죽전점</string>
 </resources>
