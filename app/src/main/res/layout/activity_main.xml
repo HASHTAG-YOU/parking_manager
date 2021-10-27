@@ -200,9 +200,7 @@
         android:layout_height="560dp"
         android:layout_below="@+id/btn_floor1"
         android:layout_centerHorizontal="true"
-        android:background="@color/grey"
-
-        
+        android:background="@drawable/parkingstation_background"
         >
 
 
