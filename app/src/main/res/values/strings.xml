@@ -4,6 +4,6 @@
     <string name="parking_time">주차 시간</string>
     <string name="parking_location">주차 위치</string>
     <string name="ex_parking_time">01:23</string>
-    <string name="ex_parking_location">A-01</string>
+    <string name="ex_parking_location">B-04</string>
     <string name="ex_location">단국마트 죽전점</string>
 </resources>
